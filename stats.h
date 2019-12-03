@@ -11,6 +11,9 @@
 #ifndef _STATS_H_
 #define _STATS_H_
 
+/* Project_Specific Constants */
+#define SIZE (40)
+
 /* Function Prototypes and Description */
 
 /*--
