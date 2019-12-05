@@ -1,6 +1,6 @@
 ###----------------------------------------------------------------------------
 
-### This a repository for the Coursera Specialization of Embedded Software
+### This repository is for the Coursera Specialization of Embedded Software
 ### Essentials to be submitted as the solution of Course.1 Week.1 Assigment.
 
 ### The Repository Contains 3 files:
